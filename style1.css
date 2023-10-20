@@ -1,0 +1,15 @@
+
+#container {
+    background-color: rgb(201, 201, 201);
+    /* color: white; */
+    height: 200px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.item {
+    background-color: rgb(85, 85, 85);
+    color: #fff;
+    padding: 20px;
+    margin: 5px;
+    width: 40%;
+}
